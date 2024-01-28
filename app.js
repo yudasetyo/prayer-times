@@ -34,7 +34,7 @@ function success(position) {
 }
 
 function error() {
-  alert("Position not accessible!");
+  prayerTimes("-6.200000", "106.816666");
 }
 
 function userLocation() {
